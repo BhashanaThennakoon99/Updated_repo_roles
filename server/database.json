@@ -1,0 +1,36 @@
+{
+  "Roles": [
+    {
+      "roleName": "thgfrr",
+      "id": "6700"
+    },
+    {
+      "id": "b957",
+      "rolecode": "7879bhj",
+      "rolename": "bhjhj",
+      "privileges": [
+        "createAccess"
+      ]
+    },
+    {
+      "roleName": "yhtrfgf",
+      "id": "0795"
+    },
+    {
+      "roleName": "hhhhhhhhhhhhhh",
+      "id": "c991"
+    },
+    {
+      "id": "27e1",
+      "rolecode": "999999",
+      "rolename": "uuuuuuuuuuuu",
+      "privileges": [
+        "updateAccess"
+      ]
+    },
+    {
+      "roleName": "mmmmmmmmmmmm",
+      "id": "98f1"
+    }
+  ]
+}
